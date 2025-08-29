@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/code_temp/static/css/main.fcb3e99a.css",
+    "main.js": "/code_temp/static/js/main.9cd38611.js",
+    "static/js/453.8d38ed07.chunk.js": "/code_temp/static/js/453.8d38ed07.chunk.js",
+    "static/media/music.mp3": "/code_temp/static/media/music.bef4224735bef883fa35.mp3",
+    "static/media/chibi.gif": "/code_temp/static/media/chibi.9092a1897f2b2492d4a3.gif",
+    "index.html": "/code_temp/index.html",
+    "main.fcb3e99a.css.map": "/code_temp/static/css/main.fcb3e99a.css.map",
+    "main.9cd38611.js.map": "/code_temp/static/js/main.9cd38611.js.map",
+    "453.8d38ed07.chunk.js.map": "/code_temp/static/js/453.8d38ed07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb3e99a.css",
+    "static/js/main.9cd38611.js"
+  ]
+}
